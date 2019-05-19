@@ -5,8 +5,8 @@ Notes
 =====
 This App is my first experience with swift, and iOS development in general. I'm sharing it as some people actually wanted this game on their phones (good luck finding Mac with Xcode lol), but there you go. Have fun I guess with this limited ammount of replayability.
 
-![alt text](https://raw.githubusercontent.com/hikkamorii/owo-click/master/1.png
-![alt text](https://raw.githubusercontent.com/hikkamorii/owo-click/master/2.png
+
+<span><img src="1.png" alt="splash" width="200"/><img src="2.png" alt="interface" width="200"/></span>
 
 Dependencies
 =====
